@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maagiku.github.io/static/css/main.7a957e82.css",
+    "main.js": "/maagiku.github.io/static/js/main.b7af2392.js",
+    "index.html": "/maagiku.github.io/index.html",
+    "main.7a957e82.css.map": "/maagiku.github.io/static/css/main.7a957e82.css.map",
+    "main.b7af2392.js.map": "/maagiku.github.io/static/js/main.b7af2392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a957e82.css",
+    "static/js/main.b7af2392.js"
+  ]
+}
