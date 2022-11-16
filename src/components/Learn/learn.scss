@@ -1,0 +1,43 @@
+.learn {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	// .learn__container
+	&__container {
+		max-width: 1440px;
+		margin: 0 auto;
+		padding: 0 15px;
+	}
+	// .learn__wrapper
+	&__wrapper {
+	}
+	// .learn__title
+	&__title {
+	}
+	// .learn__body
+	&__body {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 100px;
+		@media (max-width: 720px) {
+			gap: 30px;
+		}
+	}
+	// .learn__list
+	&__list {
+		width: 150px;
+		display: flex;
+		align-self: start;
+
+		flex-direction: column;
+		gap: 20px;
+	}
+	// .learn__item
+	&__item {
+	}
+}
+ul,
+li {
+	margin: 0;
+	padding: 0;
+}
